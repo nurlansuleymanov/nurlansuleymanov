@@ -13,7 +13,7 @@ I enjoy creating practical projects, working with databases, and learning modern
 - 🔹 Currently focusing on **C# & .NET Backend Development**
 - 🔹 Building applications with **ASP.NET Core, Entity Framework Core and SQL Server**
 - 🔹 Interested in **Backend Architecture, REST APIs and Database Design**
-- 🔹 Practicing clean code principles and layered architecture
+- 🔹 Practicing **Clean Code principles and Layered Architecture**
 - 🔹 Continuously improving my programming skills through real-world projects
 
 ---
@@ -26,7 +26,12 @@ I enjoy creating practical projects, working with databases, and learning modern
 
 ### 🗄 Database
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
+- Microsoft SQL Server (MSSQL)
+- SQL Server Management Studio (SSMS)
+- Entity Framework Core
+- Database Design
+- LINQ Queries
+- Migrations
 
 ### 🔧 Tools
 
@@ -40,24 +45,59 @@ I enjoy creating practical projects, working with databases, and learning modern
 
 A CRUD application built with **C# and Entity Framework Core** demonstrating database operations, migrations, relationships, and student management.
 
+**Technologies:**
+- C#
+- Entity Framework Core
+- SQL Server
+- LINQ
+- Code First Approach
+
+
+---
+
 ### 🍽 Restaurant App System
 
 A backend-focused application built to practice **application architecture, Entity Framework Core, database relationships, and service layer implementation**.
 
+**Features:**
+- Layered Architecture
+- Entity Relationships
+- CRUD Operations
+- Service Layer
+
+
+---
+
+### 🎫 Ticket Management System
+
+A backend application built with **C#, Entity Framework Core, and SQL Server**.
+
+**Features:**
+- Event and Ticket Management
+- One-to-Many Relationships
+- Async CRUD Operations
+- Custom Exceptions
+- Business Logic Implementation
+
+
+---
+
 ### 🗄 IMDb Spotify Database SQL
 
 SQL database project focused on **database design, relational modeling, complex queries, and data management**.
+
+**Technologies:**
+- SQL Server
+- Database Design
+- SQL Queries
+- Relational Modeling
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nurlansuleymanov&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nurlansuleymanov&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurlansuleymanov&theme=tokyonight" />
 </p>
 
 ---
