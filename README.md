@@ -24,6 +24,32 @@ I enjoy creating practical projects, working with databases, and learning modern
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+- LINQ
+- REST API
+- Layered Architecture
+
+---
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- DOM Manipulation
+- Bootstrap
+- UI Layout Development
+- Frontend and Backend Integration
+- Working with REST APIs
+
+---
+
 ### 🗄 Database
 
 - Microsoft SQL Server (MSSQL)
@@ -32,10 +58,18 @@ I enjoy creating practical projects, working with databases, and learning modern
 - Database Design
 - LINQ Queries
 - Migrations
+- Relational Database Modeling
+
+---
 
 ### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
 
 ---
 
@@ -52,7 +86,6 @@ A CRUD application built with **C# and Entity Framework Core** demonstrating dat
 - LINQ
 - Code First Approach
 
-
 ---
 
 ### 🍽 Restaurant App System
@@ -64,7 +97,6 @@ A backend-focused application built to practice **application architecture, Enti
 - Entity Relationships
 - CRUD Operations
 - Service Layer
-
 
 ---
 
@@ -78,7 +110,6 @@ A backend application built with **C#, Entity Framework Core, and SQL Server**.
 - Async CRUD Operations
 - Custom Exceptions
 - Business Logic Implementation
-
 
 ---
 
